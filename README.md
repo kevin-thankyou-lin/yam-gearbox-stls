@@ -2,9 +2,11 @@
 
 Five watertight STL parts prepared for a YAM robotic assembly task.
 
-- Outer gear and box footprint target: 0.70x
-- Housing: 119 x 77 x 54 mm
+- Outer gear target: 0.70x
+- Housing: 108.18 x 70 x 54 mm
+- Cover footprint: 108.18 x 70 mm
 - Housing cavity opening: 100.8 x 63.0 mm (0.90x the prior opening)
+- Minimum straight housing wall: 3.5 mm
 - Large gear: 49.0 mm maximum diameter
 - Small gear: 32.2 mm maximum diameter
 - Shafts retained at 18 mm diameter
@@ -18,9 +20,11 @@ Five watertight STL parts prepared for a YAM robotic assembly task.
 
 The compact outer geometry is derived from the robot-friendly relieved-tooth
 1.00x source set. Shaft sizes, bore sizes, 3 mm radial insertion clearance,
-and all axial insertion depths remain unchanged. The box footprint and gear
-tooth contours are compacted while the internal shaft webs transition smoothly
-to the preserved 18 mm shafts. The two gear axes are moved outward 0.25 mm each
+and all axial insertion depths remain unchanged. The housing and cover perimeter
+is reduced uniformly from 119 x 77 mm to 108.18 x 70 mm while the current cavity,
+socket geometry, and internal feature locations remain fixed. The gear tooth
+contours are compacted while the internal shaft webs transition smoothly to the
+preserved 18 mm shafts. The two gear axes are moved outward 0.25 mm each
 from the prior revision, with matching moves applied to the retainer and cover
 openings. This provides more robot-friendly tooth-to-tooth tolerance without
 thinning the teeth while retaining 2.40 mm of radial engagement. Only the outer
