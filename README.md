@@ -7,6 +7,8 @@ Five watertight STL parts prepared for a YAM robotic assembly task.
 - Cover footprint: 108.18 x 70 mm
 - Housing cavity opening: 100.8 x 63.0 mm (0.90x the prior opening)
 - Minimum straight housing wall: 3.5 mm
+- Retainer: 89.09 x 36.91 x 3 mm
+- Retainer clearance inside cavity: 5.85 mm per X end, 13.05 mm per Y side
 - Large gear: 49.0 mm maximum diameter
 - Small gear: 32.2 mm maximum diameter
 - Shafts retained at 18 mm diameter
@@ -32,6 +34,8 @@ half of each tooth is then shortened, leaving
 the tooth roots and lower flanks unchanged. The four vertical housing columns
 are removed while retaining the 8 mm base, outer walls, diagonal cover sockets,
 gear supports, and all mating geometry. The main housing cavity is reduced to
-90% of its prior XY opening while the Ø24 shaft bores remain unchanged.
+90% of its prior XY opening while the Ø24 shaft bores remain unchanged. The
+retainer perimeter is reduced proportionally for robot-friendly insertion while
+its Ø24 holes and 38.25 mm center spacing remain unchanged.
 
 `preview.png` shows the inferred assembly and candidate grasp spans.
