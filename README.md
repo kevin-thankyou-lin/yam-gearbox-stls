@@ -22,6 +22,8 @@ Five watertight STL parts prepared for a YAM robotic assembly task.
 - Remaining radial tooth engagement: 2.64 mm
 - Four Ø10 x 41 mm housing columns removed
 - Four symmetric Ø7 cover pegs in Ø10 housing sockets: 1.5 mm radial clearance
+- Four identical Ø14 housing socket bosses with 2 mm structural walls
+- Housing X/Y mirrored-section difference: 0.000 mm²
 
 The compact outer geometry is derived from the robot-friendly relieved-tooth
 1.00x source set. Shaft sizes, bore sizes, 3 mm radial insertion clearance,
@@ -37,9 +39,10 @@ tips are 0.25 mm longer than the prior revision while its roots and lower flanks
 remain unchanged. The gear-holder ODs are reduced from 34 to 30 mm, increasing
 their clear separation from 4.25 to 8.25 mm while retaining the Ø24 bores. The
 four vertical housing columns are removed while retaining the 8 mm base, outer
-walls, gear supports, and mating geometry. The former two diagonal cover
-locators are replaced with four symmetric peg-and-socket pairs with 1.5 mm
-radial clearance. The main housing cavity is reduced to
+walls, gear supports, and mating geometry. The entire housing shell is rebuilt
+from centered geometry for exact X/Y mirror symmetry. The former two diagonal
+cover locators are replaced with four identical Ø14 socket bosses and symmetric
+peg-and-socket pairs with 1.5 mm radial clearance. The main housing cavity is reduced to
 90% of its prior XY opening while the Ø24 shaft bores remain unchanged. The
 retainer perimeter is reduced proportionally for robot-friendly insertion while
 its Ø24 holes and 38.25 mm center spacing remain unchanged.
